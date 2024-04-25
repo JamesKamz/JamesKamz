@@ -13,9 +13,7 @@
 
 ## 💼 Skills:
 
-### Programming Languages: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) Html, Css, TypeScript 💻
+### Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript), ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) Html, Css, TypeScript 💻
 
 ### Tools: 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
