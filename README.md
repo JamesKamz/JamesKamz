@@ -6,14 +6,11 @@
 ## I'm a full stack developer from Togo. I have a passion for Cybersecurity.
 
 ## 📫 How to reach me:
-<a href="mailto:jameskamzk@gmail.com">
-  Email: <img  alt="Jacques Amouzou - Email" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
-<a href="https://linkedin.com/in/james-kamz">
-  LinkedIn: <img alt="Koffi Jacques Amouzou - LinkedIn" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/LinkedIn_icon.svg" />
-</a>
+- Email: jameskamzk@gmail.com">
+ - LinkedIn : https://github.com/JamesKamz/JamesKamz/blob/main/LinkedIn_icon.svg
+- Tiktok :  https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png
 <a href="https://tiktok.com/@james_kamz">
-  Tiktok :img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
+  <img Tiktok :img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
 </a>
 
 ## 💼 Skills:
