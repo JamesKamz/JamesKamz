@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Koffi Jacques Amouzou 🚀
 
 <!-- ![background](https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg) -->
-<img src="https://github.com/JamesKamz/JamesKamz/blob/main/preben-XZM_kRdCYXI-unsplash.jpg" width="" height="100">
+<img src="https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg" width="100%" height="100">
 
-I'm a full stack developer from Togo. I have a passion for Cybersecurity.
+## I'm a full stack developer from Togo. I have a passion for Cybersecurity.
 
 ## 📫 How to reach me:
 
