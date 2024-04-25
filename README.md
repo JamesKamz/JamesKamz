@@ -9,9 +9,6 @@
 - Email: jameskamzk@gmail.com">
  - LinkedIn : https://github.com/JamesKamz/JamesKamz/blob/main/LinkedIn_icon.svg
 - Tiktok :  https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png
-<a href="https://tiktok.com/@james_kamz">
-  <img Tiktok :img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
-</a>
 
 ## 💼 Skills:
 
