@@ -1,4 +1,33 @@
-### Hi there 👋
+# Hi there 👋, I'm Koffi Jacques Amouzou 🚀
+
+![background](https://your-image-url)
+
+I'm a full stack developer from Togo. I have a passion for Cybersecurity.
+
+## 📫 How to reach me:
+
+- Email: jameskamzk@gmail.com 📧
+- LinkedIn: https://www.linkedin.com/in/james-kamz/ 💼
+- Tiktok: https://www.tiktok.com/@james_kamz🐦
+
+## 💼 Skills:
+
+- Programming Languages: Python, Javascript, Html, Css, TypeScript 💻
+- Tools: Git 🛠
+- Frameworks: Django, Angular, React 🖥
+
+## 📚 I’m currently learning:
+
+[What you're currently learning] 📖
+
+## 📈 My GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jameskamz&show_icons=true)
+
+## 🏆 My GitHub Achievements:
+
+![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jameskamz&column=7)
+
 
 <!--
 **JamesKamz/JamesKamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
