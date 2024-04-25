@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Koffi Jacques Amouzou 🚀
 
 ![background](https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg)
+<img src="https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg" width="100%" height="100">
 
 I'm a full stack developer from Togo. I have a passion for Cybersecurity.
 
@@ -12,9 +13,17 @@ I'm a full stack developer from Togo. I have a passion for Cybersecurity.
 
 ## 💼 Skills:
 
-- Programming Languages: Python, Javascript, Html, Css, TypeScript 💻
-- Tools: Git 🛠
-- Frameworks: Django, Angular, React 🖥
+### Programming Languages: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript),
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) Html, Css, TypeScript 💻
+
+### Tools: 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### Frameworks: 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ## 📚 I’m currently learning:
 
