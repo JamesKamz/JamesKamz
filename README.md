@@ -13,7 +13,7 @@
   <img alt="Koffi Jacques Amouzou - LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
 </a>
 <a href="https://tiktok.com/@james_kamz">
-  <img alt="James Kamz - Tiktok" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/tiktok.svg" />
+  <img alt="James Kamz - Tiktok" width="22px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
 </a>
 
 ## 💼 Skills:
