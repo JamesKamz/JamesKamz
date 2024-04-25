@@ -7,13 +7,13 @@
 
 ## 📫 How to reach me:
 <a href="mailto:jameskamzk@gmail.com">
-  <img  alt="Jacques Amouzou - Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img  alt="Jacques Amouzou - Email" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://linkedin.com/in/james-kamz">
-  <img alt="Koffi Jacques Amouzou - LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
+  <img alt="Koffi Jacques Amouzou - LinkedIn" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
 </a>
 <a href="https://tiktok.com/@james_kamz">
-  <img alt="James Kamz - Tiktok" width="22px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
+  <img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
 </a>
 
 ## 💼 Skills:
