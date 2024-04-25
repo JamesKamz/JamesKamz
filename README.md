@@ -7,22 +7,22 @@
 
 ## 📫 How to reach me:
 <a href="mailto:jameskamzk@gmail.com">
-  <img  alt="Jacques Amouzou - Email" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  Email: <img  alt="Jacques Amouzou - Email" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://linkedin.com/in/james-kamz">
-  <img alt="Koffi Jacques Amouzou - LinkedIn" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />
+  LinkedIn: <img alt="Koffi Jacques Amouzou - LinkedIn" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/LinkedIn_icon.svg" />
 </a>
 <a href="https://tiktok.com/@james_kamz">
-  <img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
+  Tiktok :img alt="James Kamz - Tiktok" width="50px" src="https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png" />
 </a>
 
 ## 💼 Skills:
 
 ### Programming Languages: 
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python),
-![Html5](https://img.shields.io/badge/-Html-black?style=flat-square&logo=Html),
-![Css3](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Css),
+![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Html5](https://img.shields.io/badge/-Html-black?style=flat-square&logo=Html)
+![Css3](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Css)
 ![Python](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) 
 
@@ -33,10 +33,6 @@
 ### Frameworks: 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-
-## 📚 I’m currently learning:
-
-[What you're currently learning] 📖
 
 ## 📈 My GitHub Stats:
 
