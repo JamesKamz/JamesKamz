@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Koffi Jacques Amouzou 🚀
+![image](https://github.com/JamesKamz/JamesKamz/assets/81109024/dd9d01b9-f770-4188-a907-b850ebcb756c)![image](https://github.com/JamesKamz/JamesKamz/assets/81109024/28279893-11f9-404b-a38d-65c7b17a6a5b)# Hi there 👋, I'm Koffi Jacques Amouzou 🚀
 
 <!-- ![background](https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg) -->
 <img src="https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg" width="100%" height="100">
@@ -7,24 +7,28 @@
 
 ## 📫 How to reach me:
 - Email: jameskamzk@gmail.com">
- - LinkedIn : https://github.com/JamesKamz/JamesKamz/blob/main/LinkedIn_icon.svg
-- Tiktok :  https://github.com/JamesKamz/JamesKamz/blob/main/images%20(2).png
+ - LinkedIn : https://www.linkedin.com/in/james-kamz
+- Tiktok :  https://tiktok.com/@james_kamz
 
 ## 💼 Skills:
 
 ### Programming Languages: 
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Html5](https://img.shields.io/badge/-Html-black?style=flat-square&logo=Html)
-![Css3](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Css)
-![Python](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
+![Html](https://img.shields.io/badge/-Html-black?style=flat-square&logo=Html)
+![Css](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Css)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C) 
 
 ### Tools: 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vscode](https://img.shields.io/badge/-Vscode-181717?style=flat-square&logo=vscode)
 
 ### Frameworks: 
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
