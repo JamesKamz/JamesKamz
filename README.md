@@ -1,4 +1,4 @@
-![image](https://github.com/JamesKamz/JamesKamz/assets/81109024/dd9d01b9-f770-4188-a907-b850ebcb756c)![image](https://github.com/JamesKamz/JamesKamz/assets/81109024/28279893-11f9-404b-a38d-65c7b17a6a5b)# Hi there 👋, I'm Koffi Jacques Amouzou 🚀
+# Hi there 👋, I'm Koffi Jacques Amouzou 🚀
 
 <!-- ![background](https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg) -->
 <img src="https://github.com/JamesKamz/JamesKamz/blob/main/adrien-olichon-RCAhiGJsUUE-unsplash.jpg" width="100%" height="100">
@@ -16,8 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
-![Html](https://img.shields.io/badge/-Html-black?style=flat-square&logo=Html)
-![Css](https://img.shields.io/badge/-Css-black?style=flat-square&logo=Css)
 
  
 
