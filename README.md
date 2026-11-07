@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/JamesKamz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(Next.js+%2B+Django+%2F+FastAPI);I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(TypeScript+%C2%B7+React+%C2%B7+Node.js);Next.js+%2B+Django+%2F+FastAPI+in+production;I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
   </a>
 </p>
 
@@ -29,9 +29,9 @@ I build **production SaaS platforms end to end**: data model, REST APIs, front e
 const james = {
   role: "Full-Stack Developer",
   location: "Casablanca, Morocco · open to remote",
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  backend: ["Python", "Django / DRF", "FastAPI", "Node.js", "Celery"],
-  data: ["PostgreSQL", "Redis", "Prisma", "MySQL"],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js / Express", "Python", "Django / DRF", "FastAPI", "Celery"],
+  data: ["PostgreSQL", "MongoDB", "Redis", "Prisma", "MySQL"],
   devops: ["Docker", "GitHub Actions", "Linux", "Nginx", "Vercel"],
   extras: ["Odoo ERP", "LLM / Claude & OpenAI APIs", "Security by design"],
   workStyle: "Clarify in writing → ship in testable steps → test like a real user",
@@ -45,6 +45,7 @@ const james = {
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| 🏙️ **[Eyes On The City](https://github.com/samTeouri/eyes-otc-api)** · 2024 | Civic incident-reporting platform for municipalities: citizens report an incident with GPS location, voice note, photo or video; support centers accept or decline and track cases from an admin dashboard. JWT auth with refresh tokens, input validation, media uploads. **🏆 Winner — Miabé Hackathon 2024 (team project).** | TypeScript · Node.js · Express · MongoDB (Mongoose) · JWT · Multer · React |
 | 🛒 **[Dumecoo](https://dumecoo.com/)** · 2026 | Multi-store SaaS: each merchant opens a shop, AI writes product listings, cash-on-delivery orders, merchant dashboard + super-admin (subscriptions, permissions, sales), cookie-free analytics. | Next.js · TypeScript · Django REST · Celery · PostgreSQL · Redis · Docker · OpenAI |
 | 👕 **[ELE Afrika](https://eleafrika.com/)** · 2025 | Print-on-demand platform for Africa: creators sell designs with zero stock, the platform prints, packs and ships. 4 user roles, each with its own dashboard. | Next.js · Django REST Framework · PostgreSQL |
 | 🏥 **[KONDZIMO](https://kondzimo-web.onrender.com/)** · 2026 | Patients describe their need on Telegram and the AI routes them to the right healthcare facility. **🏆 Audience Award — TECH X SANTE Challenge (Togo Data Lab).** | Next.js · FastAPI · Python · Telegram Bot API · AI |
@@ -69,7 +70,7 @@ const james = {
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,django,fastapi&perline=9" alt="Languages & frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,django,express,mongodb,fastapi&perline=11" alt="Languages & frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,prisma,docker,githubactions,linux,nginx,vercel&perline=9" alt="Data & DevOps" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,wordpress,figma,ps,angular&perline=8" alt="Tools" />
 </p>
@@ -103,7 +104,7 @@ const james = {
 ## 🏆 Awards
 
 - 🥇 **Audience Award** — TECH X SANTE Challenge, Togo Data Lab (2026) with *KONDZIMO*
-- 🥇 **Winner** — Miabé Hackathon 2024 · **Finalist** 2023
+- 🥇 **Winner** — Miabé Hackathon 2024 with *Eyes On The City* (TypeScript / Node.js / React) · **Finalist** 2023
 
 ---
 
