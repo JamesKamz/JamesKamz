@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=James%20Kamz&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Odoo%20%26%20AI&descSize=18&descAlignY=58" alt="James Kamz — Full-Stack Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="James Kamz — Full-Stack Engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JamesKamz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(Next.js+%2B+Django+%2F+FastAPI);I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+(Next.js+%2B+Django+%2F+FastAPI);I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
   </a>
 </p>
 
@@ -89,8 +89,8 @@ const james = {
 
 ## 💼 Experience
 
-- **Full-Stack & Odoo Developer (freelance)** — Upwork · ComeUp · *2025 → now*<br/>
-  Custom SaaS and web apps for clients: e-commerce platforms, marketplaces, Odoo ERPs, AI chatbots.
+- **Full-Stack Engineer (freelance)** — Upwork · ComeUp · *2025 → now*<br/>
+  Design, build and ship custom SaaS and web apps end to end: e-commerce platforms, marketplaces, Odoo ERPs, AI chatbots.
 - **Odoo / Python Developer & Integrator** — NG-STARs, Lomé · *2024*<br/>
   Built and customised Odoo modules, client integrations and maintenance.
 - **Application Developer** — NG-STARs, Lomé · *2023*
@@ -128,4 +128,4 @@ const james = {
   <img src="https://komarev.com/ghpvc/?username=JamesKamz&color=06b6d4&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
