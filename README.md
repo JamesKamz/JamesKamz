@@ -110,14 +110,14 @@ const james = {
 ## 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JamesKamz&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesKamz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/JamesKamz/JamesKamz/stats/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JamesKamz/JamesKamz/stats/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/JamesKamz/JamesKamz/stats/tokyonight/2-most-commit-language.svg" alt="Top languages" width="49%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JamesKamz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JamesKamz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
 </p>
 
 ---
