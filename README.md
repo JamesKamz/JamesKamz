@@ -27,7 +27,7 @@ I build **production SaaS platforms end to end**: data model, REST APIs, front e
 
 ```ts
 const james = {
-  role: "Full-Stack Engineer",
+  role: "Full-Stack Developer",
   location: "Casablanca, Morocco · open to remote",
   frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
   backend: ["Python", "Django / DRF", "FastAPI", "Node.js", "Celery"],
@@ -89,7 +89,7 @@ const james = {
 
 ## 💼 Experience
 
-- **Full-Stack Engineer (freelance)** — Upwork · ComeUp · *2025 → now*<br/>
+- **Full-Stack Developer (freelance)** — Upwork · ComeUp · *2025 → now*<br/>
   Design, build and ship custom SaaS and web apps end to end: e-commerce platforms, marketplaces, Odoo ERPs, AI chatbots.
 - **Odoo / Python Developer & Integrator** — NG-STARs, Lomé · *2024*<br/>
   Built and customised Odoo modules, client integrations and maintenance.
