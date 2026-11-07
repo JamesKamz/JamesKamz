@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="James Kamz — Full-Stack Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="James Kamz — Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JamesKamz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+(Next.js+%2B+Django+%2F+FastAPI);I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+(Next.js+%2B+Django+%2F+FastAPI);I+ship+SaaS+products+from+idea+to+production;Odoo+ERP+%C2%B7+AI+integrations+%C2%B7+Automation;Open+to+full-stack+roles+%E2%80%94+remote+or+on-site" alt="Typing intro" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 👋 About me
 
-I'm **Koffi Jacques Amouzou** (*James Kamz*), a **full-stack engineer** based in **Casablanca, Morocco** 🇲🇦, originally from Togo 🇹🇬.
+I'm **Koffi Jacques Amouzou** (*James Kamz*), a **full-stack developer** based in **Casablanca, Morocco** 🇲🇦, originally from Togo 🇹🇬.
 
 I build **production SaaS platforms end to end**: data model, REST APIs, front end, auth & permissions, payments, CI/CD and deployment. Over the past **4+ years** I've shipped **15+ projects** for companies and founders, from multi-vendor marketplaces to print-on-demand platforms, Odoo ERPs and AI chatbots.
 
