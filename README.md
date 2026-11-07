@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="James Kamz — Full-Stack Developer" width="100%" />
+  <img src="./assets/banner1.svg" alt="James Kamz — Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
